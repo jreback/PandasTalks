@@ -43,6 +43,7 @@ dependencies:
 - pandas=v0.18.0rc1=np110py35_0
 - partd=0.3.2=py35_1
 - path.py=8.1.2=py35_1
+- patsy=0.4.0=np110py35_0
 - pexpect=3.3=py35_0
 - pickleshare=0.5=py35_0
 - pip=8.0.2=py35_0
@@ -69,7 +70,9 @@ dependencies:
 - simplegeneric=0.8.1=py35_0
 - sip=4.16.9=py35_0
 - six=1.10.0=py35_0
+- sqlalchemy=1.0.11=py35_0
 - sqlite=3.9.2=0
+- statsmodels=0.6.1=np110py35_0
 - terminado=0.5=py35_1
 - tk=8.5.18=0
 - toolz=0.7.4=py35_0
