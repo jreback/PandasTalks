@@ -1,4 +1,4 @@
-name: python3
+name: talk
 channels:
 - pandas
 dependencies:
@@ -26,6 +26,7 @@ dependencies:
 - jupyter_console=4.1.0=py35_0
 - jupyter_core=4.0.6=py35_0
 - libpng=1.6.17=0
+- llvmlite=0.8.0=py35_0
 - locket=0.2.0=py35_0
 - markupsafe=0.23=py35_0
 - matplotlib=1.5.1=np110py35_0
@@ -34,6 +35,7 @@ dependencies:
 - nbconvert=4.1.0=py35_0
 - nbformat=4.0.1=py35_0
 - notebook=4.1.0=py35_0
+- numba=0.23.1=np110py35_0
 - numexpr=2.4.6=np110py35_1
 - numpy=1.10.4=py35_0
 - openssl=1.0.2f=0
@@ -60,6 +62,7 @@ dependencies:
 - qtconsole=4.1.1=py35_0
 - readline=6.2=2
 - requests=2.9.1=py35_0
+- scikit-learn=0.17=np110py35_2
 - scipy=0.17.0=np110py35_0
 - seaborn=0.7.0=py35_0
 - setuptools=19.6.2=py35_0
@@ -76,7 +79,7 @@ dependencies:
 - xlrd=0.9.4=py35_0
 - xlsxwriter=0.8.4=py35_0
 - xlwt=1.0.0=py35_0
-- xz=5.0.5=0
+- xz=5.0.5=1
 - yaml=0.1.6=0
 - zlib=1.2.8=0
 - pip:
