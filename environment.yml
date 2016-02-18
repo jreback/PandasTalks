@@ -1,5 +1,5 @@
 name: talk
-channels:
+channesl:
 - pandas
 dependencies:
 - anaconda-client=1.2.2=py35_0
@@ -26,8 +26,11 @@ dependencies:
 - jupyter_console=4.1.0=py35_0
 - jupyter_core=4.0.6=py35_0
 - libpng=1.6.17=0
+- libxml2=2.9.2=0
+- libxslt=1.1.28=2
 - llvmlite=0.8.0=py35_0
 - locket=0.2.0=py35_0
+- lxml=3.5.0=py35_0
 - markupsafe=0.23=py35_0
 - matplotlib=1.5.1=np110py35_0
 - mistune=0.7.1=py35_0
