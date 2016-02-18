@@ -3,6 +3,7 @@
 *.pdf
 SO/
 *.html
+data/
 
 *~
 *.msgpack

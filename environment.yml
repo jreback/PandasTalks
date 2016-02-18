@@ -1,9 +1,10 @@
 name: talk
-channesl:
+channels:
 - pandas
 dependencies:
 - anaconda-client=1.2.2=py35_0
 - appnope=0.1.0=py35_0
+- beautifulsoup4=4.4.1=py35_0
 - bokeh=0.11.1=py35_0
 - chest=0.2.3=py35_0
 - cloudpickle=0.1.1=py35_0
@@ -15,6 +16,7 @@ dependencies:
 - freetype=2.5.5=0
 - hdf5=1.8.15.1=2
 - heapdict=1.0.0=py35_0
+- html5lib=0.999=py35_0
 - ipykernel=4.2.2=py35_0
 - ipython=4.1.1=py35_0
 - ipython_genutils=0.1.0=py35_0
