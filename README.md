@@ -14,6 +14,11 @@ conda env create -n talk --file=environment.yml
 source activate talk
 ```
 
+create a kernal for the notebook
+```
+ipython kernel install --user --name talk --display-name "Python3 (talk)"
+```
+
 launch the notebook
 ```
 jupyter notebook
