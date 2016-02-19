@@ -1,10 +1,13 @@
 
-## Pandas talk on Data Analysis
+## Pandas Talk on Data Analysis, February 19, 2016
 
 [notebooks are here](https://github.com/jreback/PandasTalks/tree/master/february_2016)
+
 [slides are here](http://slides.com/jeffreback/pandas-data-analysis-2#)
 
-## To create the environments
+## setup
+
+To create the environments
 
 ```
 conda env create -n talk --file=environment.yml
