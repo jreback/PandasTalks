@@ -1,7 +1,13 @@
 
+## Pandas Talk on Python for Quants, May 6, 2016
+
+[notebooks are here](https://github.com/jreback/PandasTalks/tree/master/peformance/may_2016)
+
+[slides are here](http://slides.com/jeffreback/pandas-performance-2#)
+
 ## Pandas Talk on Data Analysis, February 19, 2016
 
-[notebooks are here](https://github.com/jreback/PandasTalks/tree/master/february_2016)
+[notebooks are here](https://github.com/jreback/PandasTalks/tree/master/data_analysis/february_2016)
 
 [slides are here](http://slides.com/jeffreback/pandas-data-analysis-2#)
 
